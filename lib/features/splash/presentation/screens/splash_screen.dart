@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:shop_ease/features/auth/presentation/screens/login_screen.dart';
+import 'package:kitway_app/features/auth/presentation/screens/login_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -33,4 +33,5 @@ class _SplashScreenState extends State<SplashScreen> {
     );
   }
   }
+
 

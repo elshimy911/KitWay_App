@@ -1,7 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:shop_ease/core/theme/app_colors.dart';
-import 'package:shop_ease/core/theme/app_text_styles.dart';
-import 'package:shop_ease/features/auth/presentation/screens/signup_screen.dart';
+﻿import 'package:flutter/material.dart';
+import 'package:kitway_app/core/theme/app_colors.dart';
+import 'package:kitway_app/core/theme/app_text_styles.dart';
+import 'package:kitway_app/features/auth/presentation/screens/signup_screen.dart';
 
 import '../../../../core/widget/custom_button.dart';
 import '../../../../core/widget/custom_text_field.dart';

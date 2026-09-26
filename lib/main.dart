@@ -1,6 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:shop_ease/features/splash/presentation/screens/splash_screen.dart';
-
+﻿import 'package:flutter/material.dart';
+import 'package:kitway_app/features/splash/presentation/screens/splash_screen.dart';
 import 'core/routes/app_routes.dart';
 import 'core/theme/app_theme.dart';
 

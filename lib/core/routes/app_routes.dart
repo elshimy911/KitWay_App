@@ -1,8 +1,8 @@
-import 'package:flutter/cupertino.dart';
-import 'package:shop_ease/features/auth/presentation/screens/login_screen.dart';
-import 'package:shop_ease/features/auth/presentation/screens/signup_screen.dart';
-import 'package:shop_ease/features/splash/presentation/screens/splash_screen.dart';
-import 'package:shop_ease/features/auth/presentation/screens/forgot_password_screen.dart';
+﻿import 'package:flutter/cupertino.dart';
+import 'package:kitway_app/features/auth/presentation/screens/login_screen.dart';
+import 'package:kitway_app/features/auth/presentation/screens/signup_screen.dart';
+import 'package:kitway_app/features/splash/presentation/screens/splash_screen.dart';
+import 'package:kitway_app/features/auth/presentation/screens/forgot_password_screen.dart';
 import '../../features/home/presentation/screens/home_screen.dart';
 import '../../features/home/presentation/screens/orders_screen.dart';
 
